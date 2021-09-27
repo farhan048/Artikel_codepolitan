@@ -55,6 +55,6 @@ Dan hasil ketiga bagian tersebut akan digabung dan otomatis di encode menjadi To
 
 <a href="https://ibb.co/FVkyf07"><img src="https://i.ibb.co/xHKBcf5/jwt.png" alt="jwt" border="0"></a>
 
-Jika isi Header atau Payload dirubah maka isi Signature menjadi tidak valid. Satu hal lagi JWT ini tidak tergantung sama bahasa program tertentu jadi kita bisa mengimplementasikan di Laravel Codeigniter Node JS dan yang lainnya. Sekian dan Terimakasih
+Jika isi Header atau Payload dirubah maka isi Signature menjadi tidak valid. Satu hal lagi JWT ini tidak tergantung sama bahasa program tertentu jadi kita bisa mengimplementasikan di Laravel Codeigniter Node JS dan yang lainnya. Sekian dan Terimakasih.
 
 sumber [JWT.io](https://jwt.io/introduction)
